@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesfb&langs_count=20&hide_progress=true)](https://github.com/thalesfb/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thalesfb)](https://github.com/thalesfb/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@thalesfb)](https://github.com/thalesfb/github-readme-stats)
 
 <!--
 **thalesfb/thalesfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
