@@ -92,8 +92,6 @@ Academic repositories written in C, featuring classic and advanced data structur
 Persistence of Vision (POV) display implemented in C++ for a Digital Systems course, exploring timing control, LED sequencing and embedded logic.  
 `C++ | Embedded Systems | Digital Electronics`
 
-> Tip: pin your main repositories on GitHub so they appear directly below this README.
-
 ---
 
 ## 🎓 Learning & Certifications
