@@ -11,8 +11,7 @@ My name is Thales Ferreira. I build data-driven solutions, automate processes, a
 ---
 
 ## 🛠 Technologies & Tools
-
-[![Top Langs](https://github-readme-stats-3brj2ng7l-thalesfbs-projects.vercel.app/api/top-langs/?username=thalesfb&langs_count=20&hide_progress=true)](https://github.com/thalesfb/github-readme-stats)
+[![Top Langs](https://github-readme-stats-amber-eta-39.vercel.app/api/top-langs/?username=thalesfb&langs_count=20&hide_progress=true)](https://github.com/thalesfb/github-readme-stats)
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@thalesfb)](https://github.com/thalesfb/github-readme-stats) -->
 
 ### Core Languages & Platforms
