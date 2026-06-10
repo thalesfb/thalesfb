@@ -2,7 +2,7 @@
 
 My name is Thales Ferreira. I build data-driven solutions, automate processes, and connect software, infrastructure, and analytical intelligence to transform operations at scale.
 
-- 👨‍💻 Founder & CEO at OPTIMIZR (IT, data and automation)
+- 👨‍💻 Founder and CEO at OPTIMIZR (IT, data and automation)
 - 🛠 Full Stack Data Engineer with experience in industrial operations, energy and business analytics
 - 🎓 BSc in Computer Science (ongoing) – Instituto Federal Catarinense
 - 🌱 Currently studying React, AWS Academy Cloud Architecting and CCNA: Introduction to Networks
